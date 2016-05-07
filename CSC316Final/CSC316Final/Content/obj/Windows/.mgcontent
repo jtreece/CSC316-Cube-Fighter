@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>W:/CSC316Final/CSC316Final/Content/player1_model.fbx</File>
+    <File>W:/CSC316Final/CSC316Final/Content/player2_model.fbx</File>
+    <File>W:/CSC316Final/CSC316Final/Content/ground_model.fbx</File>
+    <File>W:/CSC316Final/CSC316Final/Content/HealthBar.png</File>
+    <File>W:/CSC316Final/CSC316Final/Content/arial.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

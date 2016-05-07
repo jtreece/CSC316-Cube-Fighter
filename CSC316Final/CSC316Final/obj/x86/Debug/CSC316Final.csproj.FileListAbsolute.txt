@@ -1,0 +1,64 @@
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\CSC316Final.exe
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\CSC316Final.pdb
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.dll
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.xml
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\obj\x86\Debug\CSC316Final.csprojResolveAssemblyReference.cache
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\obj\x86\Debug\CSC316Final.exe
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\obj\x86\Debug\CSC316Final.pdb
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\Content\player1_model.xnb
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\Content\player1_texture_0.xnb
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\Content\player2_model.xnb
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\Content\player2_texture_0.xnb
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\Content\ground_model.xnb
+C:\Users\Joshua Reece\Desktop\CSC316Final\CSC316Final\bin\Windows\Debug\Content\ground_texture_0.xnb
+W:\CSC316Final\CSC316Final\obj\x86\Debug\CSC316Final.exe
+W:\CSC316Final\CSC316Final\obj\x86\Debug\CSC316Final.pdb
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\Content\ground_model.xnb
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\Content\ground_texture_0.xnb
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\Content\player1_model.xnb
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\Content\player1_texture_0.xnb
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\Content\player2_model.xnb
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\Content\player2_texture_0.xnb
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\CSC316Final.exe
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\CSC316Final.pdb
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\MonoGame.Framework.dll
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.dll
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.XAudio2.dll
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.Direct3D11.dll
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.DXGI.dll
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.Direct2D1.dll
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.XInput.dll
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.RawInput.dll
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.Direct3D9.dll
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\MonoGame.Framework.xml
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.xml
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.XAudio2.xml
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.Direct3D11.xml
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.DXGI.xml
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.Direct2D1.xml
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.XInput.xml
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.RawInput.xml
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\SharpDX.Direct3D9.xml
+W:\CSC316Final\CSC316Final\obj\x86\Debug\CSC316Final.csprojResolveAssemblyReference.cache
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\Content\HealthBar.xnb
+W:\CSC316Final\CSC316Final\bin\Windows\Debug\Content\arial.xnb
